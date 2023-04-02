@@ -1,0 +1,27 @@
+<a
+  class="connection"
+  title="discover everything"
+  href="https://github.com/fsl0110"
+>
+  <span>&#9829;</span>
+  <span>&#9829;</span>
+  <span>&#9829;</span>
+</a>
+<style>
+  .connection {
+    display: flex;
+    flex-direction: column;
+    line-height: 10px;
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+    padding: 8px;
+    height: 30px;
+  }
+</style>
+<script>
+  const connection = document.getElementsByClassName("connection")[0];
+  connection.addEventListener("click", () => {
+    alert("discover everything");
+  });
+</script>

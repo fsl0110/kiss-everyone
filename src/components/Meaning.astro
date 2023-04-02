@@ -1,0 +1,18 @@
+---
+import { TextCircle } from "astro-textcircle";
+const image = "/everything-everywhere-allatonce.png";
+---
+
+<div>
+  <TextCircle
+    text="Everyone Everywhere Alltogether"
+    options={{
+      fontSizeInRem: 1,
+      divider: "&#9829;",
+      spacing: 3,
+      textTransform: "uppercase",
+    }}
+  >
+    <img src={image} alt="Everything Everywhere AllAtOnce" />
+  </TextCircle>
+</div>

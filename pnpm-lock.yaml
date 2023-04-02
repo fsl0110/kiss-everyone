@@ -5,12 +5,14 @@ specifiers:
   '@astrojs/rss': ^2.3.2
   '@astrojs/sitemap': ^1.2.1
   astro: ^2.1.9
+  astro-textcircle: ^1.0.2
 
 dependencies:
   '@astrojs/mdx': 0.18.2_astro@2.1.9
   '@astrojs/rss': 2.3.2
   '@astrojs/sitemap': 1.2.1
   astro: 2.1.9
+  astro-textcircle: 1.0.2_astro@2.1.9
 
 packages:
 
@@ -907,6 +909,14 @@ packages:
   /astring/1.8.4:
     resolution: {integrity: sha512-97a+l2LBU3Op3bBQEff79i/E4jMD2ZLFD8rHx9B6mXyB2uQwhJQYfiDqUwtfjF4QA1F2qs//N6Cw8LetMbQjcw==}
     hasBin: true
+    dev: false
+
+  /astro-textcircle/1.0.2_astro@2.1.9:
+    resolution: {integrity: sha512-jY2XxSAeg3LAC41wF6dBLEPGd72nI+gYZs+gXQSzh4sJ+GZH9UPiFohViHtOMtcJK0MccvLJyvVtNsoVhKzgLw==}
+    peerDependencies:
+      astro: ^2.0.10
+    dependencies:
+      astro: 2.1.9
     dev: false
 
   /astro/2.1.9:
