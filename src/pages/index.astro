@@ -3,6 +3,10 @@ import BaseHead from "../components/BaseHead.astro";
 import Meaning from "../components/Meaning.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import Connection from "../components/Connection.astro";
+import FormattedDate from "../components/FormattedDate.astro";
+import { getCollection } from "astro:content";
+
+const futures = await getCollection("future");
 ---
 
 <!DOCTYPE html>
@@ -16,6 +20,18 @@ import Connection from "../components/Connection.astro";
       <div class="what-if">
         <h1>What if ...</h1>
       </div>
+      <section class="future">
+        <ul class="future-list">
+          {
+            futures.map((future) => (
+              <li class="card">
+                <a href={`/future/${future.slug}/`}>... {future.data.title}</a>
+                <FormattedDate date={future.data.pubDate} />
+              </li>
+            ))
+          }
+        </ul>
+      </section>
       <div class="connenction">
         <Connection />
       </div>
