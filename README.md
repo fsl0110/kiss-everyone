@@ -1,4 +1,4 @@
-For me miracles are possible.
+For me wonders are possible.
 
 Is this art?
 
