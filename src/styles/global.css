@@ -39,13 +39,7 @@ body {
 
 article h1 {
   font-size: 2rem;
-  padding: 0;
-}
-
-article time {
-  display: block;
-  margin-bottom: 1em;
-  margin-top: 1em;
+  padding: 1rem;
 }
 
 .future-post {
