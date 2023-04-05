@@ -15,3 +15,7 @@ A starting point
 Orientation
 
 [Mission](http://kiss-everything.world) | [Vision](http://kiss-everything.world) | [Messenger](http://kiss-everything.world)
+
+...
+
+Please write it down and wait!
