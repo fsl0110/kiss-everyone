@@ -14,7 +14,7 @@ What are possible answers?
 
 A starting point
 
-[Homework](http://kiss-yourself.world) | [Teamwork](http://everyone-everywhere-alltogether.world) | [Framework](http://kiss-everything.world)
+[Homework](http://kiss-yourself.world) | [Teamwork](http://kiss-everyone.world) | [Framework](http://kiss-everything.world)
 
 Orientation
 
