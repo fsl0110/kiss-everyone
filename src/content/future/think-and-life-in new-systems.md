@@ -8,6 +8,10 @@ draft: false
 
 What are the follow-up questions?
 
+What are possible answers?
+
+...
+
 A starting point
 
 [Homework](http://kiss-yourself.world) | [Teamwork](http://everyone-everywhere-alltogether.world) | [Framework](http://kiss-everything.world)
