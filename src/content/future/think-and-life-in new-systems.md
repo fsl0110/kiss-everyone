@@ -6,8 +6,12 @@ heroImage: "/everything-everywhere-allatonce.png"
 draft: false
 ---
 
+What are the follow-up questions?
+
 A starting point
 
-[Homework](kiss-yourself.world) | [Teamwork](everyone-everywhere-alltogether.world) | [Framework](kiss-everything.world)
+[Homework](http://kiss-yourself.world) | [Teamwork](http://everyone-everywhere-alltogether.world) | [Framework](http://kiss-everything.world)
 
-What are the follow-up questions?
+Orientation
+
+[Mission](http://kiss-everything.world) | [Vision](http://kiss-everything.world) | [Messenger](http://kiss-everything.world)
