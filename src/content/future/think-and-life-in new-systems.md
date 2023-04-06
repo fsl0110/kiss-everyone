@@ -23,3 +23,31 @@ Orientation
 ...
 
 Please write it down and wait!
+
+## Contributions
+
+We can't solve problems by using the same kind of thinking we used when we created them. (Albert Einstein)
+
+...
+
+We shall require a substantially new manner of thinking if mankind is to survive. (Albert Einstein)
+
+...
+
+The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms. (Albert Einstein)
+
+...
+
+Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone. (Albert Einstein)
+
+...
+
+Everything should be made as simple as possible, but not simpler. (Albert Einstein)
+
+...
+
+To raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science. (Albert Einstein)
+
+...
+
+Logic will get you from A to B. Imagination will take you everywhere. (Albert Einstein)
