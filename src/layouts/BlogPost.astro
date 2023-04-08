@@ -5,7 +5,7 @@ import MeaningLink from "../components/MeaningLink.astro";
 
 type Props = CollectionEntry<"future">["data"];
 
-const { title, description, pubDate, heroImage } = Astro.props;
+const { title, description, heroImage } = Astro.props;
 ---
 
 <head>
@@ -16,8 +16,8 @@ const { title, description, pubDate, heroImage } = Astro.props;
   <main class="future-post">
     <MeaningLink />
     <article>
-      <h1>What if {title}</h1>
-      <img src={heroImage} alt="" />
+      <h1>{title}</h1>
+      <img src={heroImage} alt="everything-everywhere-allatonce" />
       <slot />
     </article>
   </main>

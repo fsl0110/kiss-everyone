@@ -19,14 +19,14 @@ const futures = await getCollection("future");
       <Meaning />
       <div class="finish-and-start">@Apr 1, 2023</div>
       <div class="what-if">
-        <h1>What if ...</h1>
+        <h1>What if</h1>
       </div>
       <section class="future">
         <ul class="future-list">
           {
             futures.map((future) => (
               <li class="card">
-                <a href={`/future/${future.slug}/`}>... {future.data.title}</a>
+                <a href={`/future/${future.slug}/`}>{future.data.title}</a>
                 <FormattedDate date={future.data.pubDate} />
               </li>
             ))
