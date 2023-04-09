@@ -115,6 +115,8 @@ Values + Mindset + ((Song, Movie, Series, Book, Artist, Cite, Symbol, ... + Ball
 
 42 = parts + hearts = life arts = 42 + x
 
+x = time
+
 ...
 
 timeDiff = 0 = everything, everywhere, all at once <br />
