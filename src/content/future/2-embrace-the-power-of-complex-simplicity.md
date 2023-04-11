@@ -117,6 +117,8 @@ Values + Mindset + ((Song, Movie, Series, Book, Artist, Cite, Symbol, ... + Ball
 
 x = time
 
+42 + x = creativity
+
 ...
 
 timeDiff = 0 = everything, everywhere, all at once <br />
