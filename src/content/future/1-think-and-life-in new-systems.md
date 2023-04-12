@@ -1,5 +1,5 @@
 ---
-title: "What if we think and life in new systems instead of old ones (1/3)"
+title: "What if we think and life in new systems instead of old ones (1/3) ?"
 slug: "think-and-life-in-new-systems"
 pubDate: "Apr 05 2023"
 heroImage: "/everything-everywhere-allatonce.png"

@@ -1,5 +1,5 @@
 ---
-title: "What if we embrace the power of complex simplicity (2/3)"
+title: "What if we embrace the power of complex simplicity (2/3) ?"
 slug: "embrace-the-power-of-complex-simplicity"
 pubDate: "Apr 08 2023"
 heroImage: "/everything-everywhere-allatonce.png"
