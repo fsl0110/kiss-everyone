@@ -9,3 +9,7 @@ Is this art?
 [Step by step explanation](https://github.com/fsl0110/kiss-everyone/commits/main)
 
 ...
+
+Unfortunately the reality is more like:
+
+[fuck-everyone.world]()
