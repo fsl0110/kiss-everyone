@@ -5,7 +5,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import Connection from "../components/Connection.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import { getCollection } from "astro:content";
-import Snow from "../components/Snow.astro";
 
 const futures = await getCollection("future");
 ---
@@ -16,7 +15,6 @@ const futures = await getCollection("future");
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
   <body>
-    <Snow />
     <main>
       <Meaning />
       <div class="finish-and-start">@Apr 1, 2023</div>

@@ -125,4 +125,4 @@ timeDiff = 0 = everything, everywhere, all at once <br />
 
 ...
 
-**Want to be free**
+![Pocket Joke](/public/pocketjoke.png)
