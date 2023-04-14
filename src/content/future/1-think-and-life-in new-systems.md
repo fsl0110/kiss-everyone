@@ -20,7 +20,7 @@ A starting point
 
 Orientation
 
-[Mission](http://kiss-everything.world) | [Vision](http://kiss-one.world) | [Messenger](http://kiss-everything.world)
+[Mission](http://kiss-time.world) | [Vision](http://kiss-one.world) | [Messenger](http://kiss-everything.world)
 
 ...
 
