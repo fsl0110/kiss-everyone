@@ -7,3 +7,7 @@ draft: true
 ---
 
 ... but no one understands?
+
+...
+
+KISS = **K**eep **i**t **s**imple, **s**tupid!

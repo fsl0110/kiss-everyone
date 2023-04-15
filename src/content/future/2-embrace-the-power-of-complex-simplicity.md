@@ -105,7 +105,7 @@ left leg = >your choice< <br />
 right leg = >your choice< <br />
 circle = >your choice< <br />
 intersection = connection named >your choice< <br />
-layer = >your choice< between yourself, everyone, everthing and time<br />
+layer = >your choice< between yourself, everyone, everything and time<br />
 
 ### The individual blueprints/dimensions
 
