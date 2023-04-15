@@ -14,13 +14,25 @@ What are possible answers?
 
 ...
 
-A starting point
+**A starting point**
 
 [Homework](http://kiss-yourself.world) | [Teamwork](http://kiss-everyone.world) | [Framework](http://kiss-everything.world)
 
-Orientation
+**Orientation**
 
 [Mission](http://kiss-time.world) | [Vision](http://kiss-one.world) | [Messenger](http://kiss-everything.world)
+
+**Roadmap**
+
+[KISS yourself](http://kiss-yourself.world) => [KISS time](http://kiss-time.world) => [KISS everyone](http://kiss-everyone.world) => [KISS one](http://kiss-one.world) => [KISS everything](http://kiss-everything.world)
+
+**Next Steps**
+
+[1. Create a greenfield version of one world](http://kiss-one.world)
+
+[2. Connect the greenfield one world to reality](http://kiss-everyone.world)
+
+[3. Be a part of Everything and transform Everything](http://kiss-time.world)
 
 ...
 
