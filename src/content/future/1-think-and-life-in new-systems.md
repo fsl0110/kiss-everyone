@@ -24,7 +24,7 @@ What are possible answers?
 
 **Roadmap**
 
-[KISS yourself](http://kiss-yourself.world) => [KISS time](http://kiss-time.world) => [KISS everyone](http://kiss-everyone.world) => [KISS one](http://kiss-one.world) => [KISS everything](http://kiss-everything.world)
+[KISS yourself](http://kiss-yourself.world) => [KISS time](http://kiss-time.world) => [KISS everyone](http://kiss-everyone.world) => [KISS time](http://kiss-time.world) => [KISS one](http://kiss-one.world) => [KISS time](http://kiss-time.world) => [KISS everything](http://kiss-everything.world)
 
 **Next Steps**
 
