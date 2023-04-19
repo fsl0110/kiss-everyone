@@ -3,10 +3,7 @@ import BaseHead from "../components/BaseHead.astro";
 import Meaning from "../components/Meaning.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import Connection from "../components/Connection.astro";
-import FormattedDate from "../components/FormattedDate.astro";
-import { getCollection } from "astro:content";
-
-const futures = await getCollection("future");
+const img = "/pocketjoke.png";
 ---
 
 <!DOCTYPE html>
@@ -16,26 +13,31 @@ const futures = await getCollection("future");
   </head>
   <body>
     <main>
+      <Connection />
       <Meaning />
       <div class="finish-and-start">@Apr 1, 2023</div>
-      <div class="what-if">
-        <h1>What if</h1>
-      </div>
-      <section class="future">
-        <ul class="future-list">
-          {
-            futures.map((future) => (
-              <li class="card">
-                <a href={`/future/${future.slug}/`}>{future.data.title}</a>
-                <FormattedDate date={future.data.pubDate} />
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-      <div class="connenction">
-        <Connection />
-      </div>
+      <img src={img} />
     </main>
+    <style>
+      body {
+        font-family: helvetica, sans-serif;
+        padding: 20px;
+      }
+
+      main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      img {
+        max-width: 600px;
+      }
+
+      .finish-and-start {
+        padding-bottom: 60px;
+      }
+    </style>
   </body>
 </html>
