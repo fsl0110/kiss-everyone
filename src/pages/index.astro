@@ -1,9 +1,9 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
-import Meaning from "../components/Meaning.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import Connection from "../components/Connection.astro";
-const img = "/pocketjoke.png";
+const thing = "/everything-everywhere-allatonce.png";
+const pocketjoke = "/pocketjoke.png";
 ---
 
 <!DOCTYPE html>
@@ -12,11 +12,11 @@ const img = "/pocketjoke.png";
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
   <body>
+    <Connection />
     <main>
-      <Connection />
-      <Meaning />
+      <img src={thing} width="200" height="200" />
       <div class="finish-and-start">@Apr 1, 2023</div>
-      <img src={img} />
+      <img class="pocketjoke" src={pocketjoke} />
     </main>
     <style>
       body {
@@ -31,7 +31,7 @@ const img = "/pocketjoke.png";
         align-items: center;
       }
 
-      img {
+      .pocketjoke {
         max-width: 600px;
       }
 
